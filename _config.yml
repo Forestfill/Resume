@@ -11,19 +11,26 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "조우람(Jo Woo Ram)"
-resume_title:                   "경력 기술서"
+resume_title:                   "Introduce"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "lisasimpson@youremailaddress.com"
+resume_contact_email:           "jowooram@naver.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone:       "555-7334"
-resume_contact_address:         "742 Evergreen Terrace, Springfield"
+resume_contact_telephone:       ""
+resume_contact_address:         ""
 
-resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
+resume_header_contact_info:     ""
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but keep it brief and concise</p>"
+resume_header_intro: "<p>첫 회사에서는 Java(Core), Android, Web Service, EAI를 경험하였습니다.
+현 회사에서는 Java 기반의 Web개발을 주로 수행하였습니다.
+현대자동차 그룹으로 현대/기아차, 현대모비스와 주로 협업하여 업무를 수행하였고 맡고 있는 시스템은 대표적으로는 "GSW-Ti" 와 "상용 리프로텍"이 있습니다.
+"GSW-Ti" 는 현대/기아자동차, 모비스(부품)의 정보를 제공하는 그룹사 내 가장 큰 시스템 중 하나입니다.
+유럽(아중동포함), 중국, 내수의 대리점, 딜러 고객이 주 사용층이며, 차량/시스템의 정비지침서, 전장회로도 등의 서비스 제공하고 Community로 소통의 창구이며 관리자들에게는 차트 분석 등 사용자들의 전반적인 활동 등을 제공합니다.
+"상용 리프로텍"은 해외/내수로 구분하여 상용차에 대한 ECU Upgrade 를 제공하며 모든 기능은 대리점, 딜러 고객들에게 모바일 장비로 데이터를 주고 받습니다.
+상기 시스템 및 기타 프로젝드로 Java, Spring, JavaScript(jQuery), Oracle, Tibero, iBatis, Mybatis 등의 기술을 활용하였습니다.
+매일 1~5,6만명이 이용하는 대형 시스템에서의 장애 및 이슈에 대한 경험을 갖고 있습니다.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
