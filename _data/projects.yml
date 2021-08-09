@@ -1,16 +1,72 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+# WorkShop Automation Client 유지보수 및 운영
+- project: WorkShop Automation Client 유지보수 및 운영
+  duration: 사용기술 &#58; Angular, Node.js
+  description: (유럽,북비,아중동) 현대자동차 정비사들의 효율적인 업무 분업 프로세스 제공	<ul class="resume-item-list"><li>역할 &#58; 유지보수, 운영</li><li>활동 내역 &#58; 국가별 신규 요구조건, 기존 시스템의 Front-end 개발 및 유지보수</li><li>내용 &#58;<br>1) Angular 를 활용한 웹 사이트와 서버간 데이터 연동 인터페이스 개발</li></ul>
+  
+# 현대 상용 웹기반 고장진단 플랫폼 구축
+- project: 현대 상용 웹기반 고장진단 플랫폼 구축
+  duration: 사용기술 &#58; Java, Spring, JavaScript(jQuery), Tibero, Mybatis
+  description: 현대 상용 리프로텍 고장진단 플랫폼 구축	<ul class="resume-item-list"><li>역할 &#58; 개발 PM, 개발, 유지보수</li><li>활동 내역 &#58; 상용차에 대한 고장진단 데이터를 활용한 플랫폼 구축 개발 PM 수행 및 개발</li><li>내용 &#58;<br>1) 진단장비와 웹 사이트 간 데이터 연동 인터페이스 개발 <br>2) 웹 사이트 신규 구축(로그인 SSO 연동, 차트, 보안, 다국어)</li></ul>
+  
+# 차세대 진단장비 연동 인터페이스 개발
+- project: 차세대 진단장비 연동 인터페이스 개발
+  duration: 사용기술 &#58; Java, Spring, JavaScript(jQuery), Oracle, iBatis, Mybatis
+  description: 현대/기아자동차 진단장비(GDSM)와 GSW-Ti(WEB) 간 데이터 연동	<ul class="resume-item-list"><li>역할 &#58; 개발, 유지보수</li><li>활동 내역 &#58; 차세대 진단장비 개발에 따른 데이터 연동 인터페이스 개발</li><li>내용 &#58;<br>1) 로그인, 데이터, 보안 연동 인터페이스</li></ul>
+  
+# 선행품질 개선 프로세스 구축
+- project: 선행품질 개선 프로세스 구축
+  duration: 사용기술 &#58; -
+  description: 선행품질 개선을 위한 소프트웨어 개발 단계에서의 프로세스 구축	<ul class="resume-item-list"><li>역할 &#58; 분석, 설계</li><li>활동 내역 &#58; 프로세스 분석 및 문제점 도출, 대안방안 설계</li><li>내용 &#58;<br>1) 고객들에게 접수되는 품질에 대한 이슈를 해결하기 위한 선행품질 개선 활동 <br>2) 스프트웨어 개발 단계에서 품질 개선 활동을 통해 향후 품질에 대한 이슈를 최소화 <br>3) 단위테스트 표준화, 개발자 커플링 테스트, 테스트 자동화 프로그램 개발</li></ul>
+  
+# GSW-Ti 개편(검색 인덱스 고도화, 지역별 수평전개)
+- project: GSW-Ti 개편(검색 인덱스 고도화, 지역별 수평전개)
+  duration: 사용기술 &#58; Java, Spring, JavaScript(jQuery), Oracle, iBatis, Mybatis
+  description: 검색 인덱스 고도화 <ul class="resume-item-list"><li>역할 &#58; 개발, 유지보수</li><li>활동 내역 &#58; 검색 인덱스 고도화에 따른 웹 사이트 개편</li><li>내용 &#58;<br>1) 저작도구(DB 데이터 수집)와 웹 사이트 간 데이터 연동 인터페이스 및 Client 개발 <br>2) 전 지역 순차적 수평전개(현대/기아 유럽,중국,내수)</li></ul>
+  
+# EMS 연동 인터페이스 개발
+- project: EMS 연동 인터페이스 개발
+  duration: 사용기술 &#58; Java, Spring, JavaScript(jQuery), Oracle, iBatis, Mybatis
+  description: (유럽,내수) 현대/기아자동차 진단장비(DLogger)와 GSW-Ti(WEB) 간 데이터 연동	<ul class="resume-item-list"><li>역할 &#58; 설계, 개발</li><li>활동 내역 &#58; 진단장비(DLogger)와 GSW-Ti(WEB) 간 데이터 연동 인터페이스 개발</li><li>내용 &#58;<br>1) 진단장비를 통해 수집된 로그데이터를 웹으로 전달하여 게시글 작성(인터페이스 연동) <br>2) 앱(Android)와 통신하여 수집된 데이터 전달(인터페이스 연동)</li></ul>
+  
+# 상용 리프로텍 개발 및 유지보수
+- project: 상용 리프로텍 개발 및 유지보수
+  duration: 사용기술 &#58; Java, Spring, JavaScript(jQuery), Tibero, Mybatis
+  description: (해외,내수) 현대/기아 상용차 ECU 프로세스, 모니터링, 진단장비 연동 데이터 제공	<ul class="resume-item-list"><li>역할 &#58; 개발, 유지보수</li><li>활동 내역 &#58; 웹 사이트 개발 및 운영</li><li>내용 &#58;<br>1) 게시글 상태변경, 승인절차, 공지사항 게시판 로직 개발 <br>2) 로그인 시 SSO 연동 구현 <br>3) 다국어 지원 <br>4) 진단장비 연동 인터페이스 개발 <br>5) 관리자 메뉴, 화면 개발</li></ul>
+  
+# GSW-Ti(사이트) 개발 및 유지보수
+- project: GSW-Ti(사이트) 개발 및 유지보수
+  duration: 사용기술 &#58; Java, Spring, JavaScript(jQuery), Oracle, iBatis, Mybatis
+  description: (유럽,중국,내수) 현대/기아자동차 차량/시스템의 정비지침서, 전장회로도 등의 서비스 제공 <ul class="resume-item-list"><li>역할 &#58; 개발, 유지보수</li><li>활동 내역 &#58; 웹 사이트 개발 및 운영</li><li>내용 &#58;<br>1) 게시글 상태변경, 승인절차, 패스워드 분실 등에 따른 메일 발송 로직 개발 <br>2) 로그인 시 SSO 연동 구현 <br>3) 권한별 Write Form 출력 <br>4) Flowchart 구현(고장코드에 따른 로드맵) <br>5) 휴대폰 인증 및 국가별 Zip Code 외부 API 호출 연동 <br>6) 통계화면 구성 <br>7) 다국어 지원</li></ul>
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+# 대한항공 신화물(iCargo) 연계 시스템 구축
+- project: 대한항공 신화물(iCargo) 연계 시스템 구축
+  duration: 사용기술 &#58; Java, IIB, MQ, ABNF, RMS(Monitoring System)
+  description: 수입/출 화물에 대한 정보를 EDI 연동 <ul class="resume-item-list"><li>역할 &#58; PL, 개발</li><li>활동 내역 &#58; 미들웨어 Architecture 구성, 공통모듈과 EDI 연계시스템 구성 및 개발, Soap 통신, SFTP 구성</li><li>내용 &#58;<br>1) 웹 기반 테스트 서비스 구축 <br>2) 기반 서비스를 활용한 테스트 자동화 구축(Jmeter)</li></ul>
+  
+# PoC(대한항공) - 신화물(iCargo) 연계 시스템
+- project: PoC(대한항공) - 신화물(iCargo) 연계 시스템
+  duration: 사용기술 &#58; Java, IIB, MQ, ABNF
+  description: 수입출 화물에 대한 정보를 EDI 연동	<ul class="resume-item-list"><li>역할 &#58; 설계, 개발</li><li>활동 내역 &#58; ABNF 를 이용한 EDI 연계, IIB 를 이용한 EAI 구성(Soap, SFTP, SSO)</li><li>내용 &#58;<br>1) 프로젝트 수주를 위한 개발 진행 완료 및 체결 완료 <br>2) 타사대비 성능우수(스레드 100 개 기준 TPS 약 40% 우수)</li></ul>
+  
+# PoC(IBM) - EAI 연동 시스템
+- project: PoC(IBM) - EAI 연동 시스템
+  duration: 사용기술 &#58; AppConnect, Java, Javascript
+  description: HanonSystem 내부 시스템에 대한 EAI 연동	<ul class="resume-item-list"><li>역할 &#58; 개발</li><li>활동 내역 &#58; AppConnect 을 이용한 EAI 구성(Solution to DB, SFTP, Http, Soap, Email)</li><li>내용 &#58;<br>1) 솔루션 납품을 위한 개발 지원 및 가이드 제공 <br>2) 각 시나리오에 대한 개발 지원(SAP, DB, POP3, SMTP, SFTP)</li></ul>
+  
+# KT KOS 유무선 통합 차세대 시스템 구축
+- project: KT KOS 유무선 통합 차세대 시스템 구축
+  duration: 사용기술 &#58; Java, DB, IIB, MQ, RMS, RA
+  description: 유선과 무선을 통합하여 고객 정보를 관리하여 보다 효율적이고 신속한 서비스를 제공	<ul class="resume-item-list"><li>역할 &#58; 설계, 개발 및 운영(DB to DB, DB to Web)</li><li>활동 내역 &#58; 미들웨어 Architecture 구성, Interface 개발, 형상관리, 배포, Soap 통신, 안정화 운영</li><li>내용 &#58;<br>1) 약 2000 여건의 Interface 개발, 배포 자동화 서비스 구축 및 운영 <br>2) 자체 솔루션을 활용한 원활한 MQ 사용 지원 및 운영</li></ul>
+  
+# 누리텔레콤 신사업 과제 개발 - 유무선 복합 검침 앱
+- project: 누리텔레콤 신사업 과제 개발 - 유무선 복합 검침 앱
+  duration: 사용기술 &#58; Java(Android), DB, Serial 통신
+  description: 열악한 환경(전기 사용량에 대한 검침이 힘든)에서 DCU(중간 검침기) 또는 Meter(가정 내 검침기)와 유무선 통신을 이용하여 사용량에 대한 수집<ul class="resume-item-list"><li>역할 &#58; PL, 개발</li><li>활동 내역 &#58; Architecture 구성, 개발</li><li>내용 &#58;<br>1) JNI 를 활용하여 Android 에서 Serial 통신이 가능하도록 설계 <br>2) 서버로 Soap 을 통한 데이터 전송</li></ul>
+  
+# 누리텔레콤 신사업 과제 개발 - 건물 군관리 정보 비교 앱
+- project: 누리텔레콤 신사업 과제 개발 - 건물 군관리 정보 비교 앱
+  duration: 사용기술 &#58; Java(Android), DB, WebService
+  description: 건물 에너지 소비정보를 분석하여 특정 조건으로 도식화하여 정보를 제공 및 수집<ul class="resume-item-list"><li>역할 &#58; PL, 개발</li><li>활동 내역 &#58; 시스템 구성, 개발</li><li>내용 &#58;<br>1) 데이터 백업 및 통계 분석을 위해 RDBMS(SQLite)를 활용 <br>2) 전송을 통해 데이터 적합성 확보</li></ul>
